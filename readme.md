@@ -12,7 +12,7 @@ OR
 ### Installation
 * Clone the repository [Repo](https://github.com/mkawsar/node-rest-curd)
 * Checkout the `master` branch
-* Make sure  `Node` and `NPM` is installed in system
+* Make sure  `Node` and `Yarn` or `NPM` is installed in system
 * Run `yarn install` or `npm install` to install the dependencies
 * Setup `Mongooes` database configuration
 
