@@ -17,13 +17,13 @@ OR
 * Setup `Mongooes` database configuration
 
 ### Project Structure
-* Our solution have two parts
+* Our solution have one part
     * REST Api
 * REST Api parts are include `app/controllers`, `app/models` and `app/routes` directory
 
 ## Run the Solutions
-* Finally run the frontend server `yarn run start`/`yarn run start`
-* For the watch run the following command `yarn run dev`/`yarn run dev`
+* Finally run the frontend server `yarn run start`/`npm run start`
+* For the watch run the following command `yarn run dev`/`npm run dev`
 
 ## Support
 
