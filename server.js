@@ -88,6 +88,7 @@ exports.create = (req, res) => {
 // Require Notes routes
 require('./app/routes/note.routes')(app);
 require('./app/routes/auth.routes')(app);
+require('./app/routes/user.routes')(app);
 
 // listen for requests
 app.listen(3000, () => {
